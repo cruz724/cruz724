@@ -45,6 +45,9 @@
   <a href="https://www.instagram.com/shubham__b06?igsh=dzBwNm1wYmx0b21q" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
+  <a href="https://cruz724.github.io/shubham-portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
 </div>
 
 ###
