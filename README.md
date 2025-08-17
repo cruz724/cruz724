@@ -42,10 +42,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
   <img width="12" />
 
-  <!-- EJS (custom icon since not widely available) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="30" alt="ejs logo" />
-  <img width="12" />
-
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
@@ -74,10 +70,6 @@
 
   <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-
-  <!-- Shadcn (using generic shadcn logo from skillicons) -->
-  <img src="https://skillicons.dev/icons?i=shadcn" height="30" alt="shadcn logo" />
   <img width="12" />
 
   <!-- Firebase -->
