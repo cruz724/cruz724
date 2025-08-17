@@ -1,70 +1,56 @@
-<h2 align="center">Hi 👋, I'm Shubham Bhandari</h2>
-<h4 align="center">🚀 Full Stack Developer | 🌍 From India | 💡 Building Scalable Apps & AI Projects</h4>
+<h2 align="left">Hi 👋! My name is Shubham Bhandari and I'm a Full Stack Developer from India</h2>
 
----
+###
 
-### 🌐 Portfolio
-🔗 [Check out my portfolio](https://cruz724.github.io/shubham-portfolio/)
-
----
-
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cruz724&show_icons=true&count_private=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cruz724&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruz724&layout=compact&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cruz724&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cruz724&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-### 🛠 Tech Stack
-<div align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,html,css" />
-  <br/>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
-  <br/>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,postman,vscode" />
+<img align="right" height="170" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
 </div>
 
----
+###
 
-### 📫 Connect with Me
-<div align="center">
-  <a href="mailto:shubhampersonal724@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<div align="left">
+  <a href="https://www.linkedin.com/in/shubham724/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/shubham724/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="shubhampersonal724@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/shubham__b06">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/cruz724">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://www.instagram.com/shubham__b06?igsh=dzBwNm1wYmx0b21q" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
----
+###
+  
+<br clear="both">
 
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cruz724/cruz724/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark"/>
-  <img src="https://raw.githubusercontent.com/cruz724/cruz724/output/snake-light.svg#gh-light-mode-only" alt="Snake animation light"/>
-</div>
+<img src="https://raw.githubusercontent.com/cruz724/cruz724/output/snake.svg" alt="Snake animation" />
 
----
-
-### ✨ Fun Section
-- 💻 I’m currently working on **AI + Full Stack Projects**
-- 🎯 Goal for 2025: **Crack top internship offers & build impactful projects**
-- 🌱 Currently learning **Next.js, Docker, and Cloud**
-- ⚡ Fun fact: I drink ☕ while debugging
+###
