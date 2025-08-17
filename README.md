@@ -1,4 +1,5 @@
-<h2 align="left">👋 Hey there! I'm <span style="color:#4CAF50;">Shubham Bhandari</span>, a Passionate Full Stack Developer 🚀 crafting scalable web solutions from India.</h2>
+<h2 align="left">💻 Shubham Bhandari | Full Stack Developer | Machine Learning | DSA in Java ⚡</h2>
+
 
 
 ###
